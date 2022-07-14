@@ -1,4 +1,11 @@
-### Hi there 👋
+👋 Hi there, my name is My Leifsdotter.<br />
+:books: I'm studying Full Stack Software Development.<br />
+:seedling: I'm currently learning MVC.<br />
+:computer: I used to study Computer Science.<br />
+:deciduous_tree: I live in the woods.<br />
+:honeybee: I'm a beekeeper.<br />
+:mailbox_closed: You can contact me on LinkedIn https://www.linkedin.com/in/myleifsdotter/<br />
+
 
 <!--
 **myleifsdotter/myleifsdotter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

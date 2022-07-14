@@ -2,8 +2,6 @@
 :books: I'm studying Full Stack Software Development.<br />
 :seedling: I'm currently learning MVC.<br />
 :computer: I used to study Computer Science.<br />
-:deciduous_tree: I live in the woods.<br />
-:honeybee: I'm a beekeeper.<br />
 :mailbox_closed: You can contact me on LinkedIn https://www.linkedin.com/in/myleifsdotter/<br />
 
 
@@ -20,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
